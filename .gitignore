@@ -1,0 +1,10 @@
+var/cache/*
+var/locks/*
+var/report/*
+var/log/*
+install.php
+php.ini.sample
+LICENSE.txt
+LICENSE.html
+REALESE_NOTES.txt
+
